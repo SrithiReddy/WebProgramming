@@ -1,0 +1,106 @@
+
+#tab1{
+    border-radius: 40px;
+    background: url(paper2.jpg) ;
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 0px; 
+    width:100px;
+    height: 200px;
+	border:0px;
+		  width:80%;
+		
+		  margin-left:auto;
+		  margin-right:auto;
+		  
+		  border-spacing:10px;
+		   
+		   
+}
+
+
+
+	   
+td{
+	padding: 5px;
+}
+
+	   table#tab1{
+		   
+		   border:0px;
+		   
+	   }
+	    table#t{
+		   height:200px;
+		   text-align : left;
+	   }
+	   
+	    table#t,th{
+		  
+		   text-align : left;
+	   }
+	  .t01{
+		  background-color:#AFB0F0
+		   
+	   }
+	   
+	   #t02{
+		   background-color:Black;
+		   color:white;
+	   }
+	   .w01{
+		   font-family:Times New Roman;
+		   font-weight:bold;
+		   color : #8B0000;
+		   font-size :18px;
+		  
+		   
+	   }
+	   #a01{
+		   color:#572823;
+		   text-align:center;
+		   font-family:Monotype Corsiva;
+		  
+		   font-size:60px;
+	   }
+	   #p01{
+		   font-family:Times New Roman;
+		   font-size:30px;
+		   text-align:center;
+	   }
+	   #mt01{
+		   font-family:Monotype Corsiva;
+		   font-size:20px;
+		   text-align:center;
+	   }
+	   .p02{
+		   font-family:Monotype Corsiva;
+		  
+		   font-size:20px;
+	   }
+	   
+	   .tr1{
+		   text-align:center;
+	   }
+	   #t{width:85%;
+		  
+		  
+		 margin-left:auto;
+		  margin-right:auto;
+		  
+		  border-spacing:0px;}
+	  img.displayed {
+		  
+		  
+    display: block;
+	  margin-left: auto;
+    margin-right: auto; }
+	
+	a:hover{
+		background-color:pink;
+	} 
+	
+	.red01{
+		color:red;
+	
+	}

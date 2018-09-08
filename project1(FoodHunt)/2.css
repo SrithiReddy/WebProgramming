@@ -1,0 +1,189 @@
+body {
+    margin:0; padding:0; height:100%; width: 100%; position:relative; overflow-x: hidden; overflow-y:hidden;
+}
+
+html {
+    width: 100%; height: 100%; margin-left: 0px; margin-right: 0px; overflow-x: hidden; overflow-y: hidden;
+}
+
+.home {
+    width: 100%; height:100%;   padding-left:10px; overflow-y:scroll;
+
+}
+
+.cart{height:15px; width:15px;}
+.block{height:45%; width:100%;}
+a {
+    color: #FFFFFF;
+}
+.s{height:20px; width:20px;}
+
+.a{vertical-align: middle;  color:#000000; padding:10px; font-weight:bold; font-size:16px;}
+   
+ .b:hover { background-color:#000000;padding:10px;}
+ 
+ a:link {color:white; text-decoration: none;}
+ 
+ .title{width:100%; background-color:#050A53;}
+ 
+ .size{height:20%; width:20%;}
+ 
+ 
+ .col1{width:20%; height:350%; float:left;}
+ .colimg{width:95%; height:8%;padding:1px;background-color:#A4A4A4;}
+ .search{width:18%; height:5%;padding:0px;background-color:#A4A4A4;float:right;}
+ 
+ 
+ .colfont{ border-radius: 10px 10px 0px 0px; font-size:30px; font-weight:bold; color:#FFFFFF;  background-color:#A4A4A4;  padding-left:65px; padding-right:65px; padding-bottom:10px;}
+ .colimg:hover { background-color:#000000;padding:3px;}
+ 
+.clr{background-color:#000000; color:#FFFFFF; width:100%; height:30px; padding-top:10px; text-align:center; border-radius: 10px 10px 0px 0px;}
+ 
+ .col3{width:17%; height:87%; float:left; background-color:#BDBDBD; border-radius: 10px 10px 0px 0px;}
+ ul{list-style-type:circle;  float: left;}
+ 
+ li:hover { background-color:#CAE8E5; color:#000000;}
+ li{padding:5px; border-bottom: thin dotted #FFFFFF; }
+ 
+ .wrap { padding-left:2px;   width:62%; height:100%; background-color:#000F00; float:left; overflow-y:scroll;
+	
+	
+	
+	background-color:white;
+	
+	
+}
+.relef {
+position: relative;
+float: left;
+}
+.relri {
+position: relative;
+float: right;
+}
+	.segment {
+		width:150px;
+		height:100px;
+	}
+	.row {
+		height:50px;
+		width:150px;
+	}
+
+	.box{
+		height:46px;
+		width:46px;
+		
+		background-color:black;
+	}
+.bigbox {
+	height:75%;
+	width:100%;
+	background-color:white;
+	
+
+}
+.couponbox {
+	height:300px;
+	width:240px;
+	margin:15px 10px;
+	background-color:white;
+	border-style: dotted;
+    border-color: grey;
+}
+
+.greybox{
+ background-color:lightgrey;
+ height:25%;
+
+ text-align:center;
+ width:100%;
+ color:red;
+ 
+}
+
+.visit{float:left;}
+.bu{width:60%; float:left;}
+
+/***********Button CSS**********/
+.button {
+    
+    /*Step 2: Basic Button Styles*/
+    display: block;
+    height: 25px;
+    width: 75px;
+    background: #34696f;
+    border: 2px solid rgba(33, 68, 72, 0.59);
+	
+	float:right;
+    
+    /*Step 3: Text Styles*/
+    color: rgba(0, 0, 0, 0.55);
+    text-align: center;
+    font: bold 15px sans-serif;
+    
+    /*Step 4: Fancy CSS3 Styles*/
+    
+    
+    
+    border-radius: 50px;
+    
+   
+    box-shadow: 0 2px 0 #1b383b;
+    
+    text-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
+	padding:5px;
+    
+}
+
+/*Step 3: Link Styles*/
+a.button {
+    text-decoration: none;
+}
+
+/*Step 5: Hover Styles*/
+a.button:hover {
+    background: red;
+   
+    
+}
+
+a.button:active{
+    
+    box-shadow:none;
+    
+    background-color:red;
+    
+}
+
+
+.header{
+	color:red;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.i{height:100%; width:35%;}
+.marquee {
+    width: 100%;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+	
+}
+
+.marquee span {
+    display: inline-block;
+    width:100%; /* show the marquee just outside the paragraph */
+    animation: marquee 15s linear infinite;
+}
+
+.marquee span:hover {
+    animation-play-state: paused
+}
+
+/* Make it move */
+@keyframes marquee {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(-100%, 0); }
+}

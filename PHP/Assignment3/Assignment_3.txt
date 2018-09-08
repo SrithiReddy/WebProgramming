@@ -1,0 +1,19 @@
+Assignment_3
+
+codd link
+http://codd.cs.gsu.edu/~smuthyala1/Assignment3
+
+question 1:
+
+http://codd.cs.gsu.edu/~smuthyala1/Assignment3/Arrays and Fucntions.php
+
+http://codd.cs.gsu.edu/~smuthyala1/Assignment3/Charlie ate my Lunch!.php
+
+http://codd.cs.gsu.edu/~smuthyala1/Assignment3/checkerboard.php
+
+http://codd.cs.gsu.edu/~smuthyala1/Assignment3/restaurants.php
+
+
+
+Github link:
+https://github.com/SrithiReddy/YOUR_GITHUB_SRITHI/tree/master/Assignment3

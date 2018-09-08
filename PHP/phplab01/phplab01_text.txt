@@ -1,0 +1,22 @@
+PHP LAB exercise 1
+
+Codd link
+http://codd.cs.gsu.edu/~smuthyala1/phplab0
+
+
+
+1.http://codd.cs.gsu.edu/~smuthyala1/phplab01/1.php
+
+2.http://codd.cs.gsu.edu/~smuthyala1/phplab01/2.php
+
+3.http://codd.cs.gsu.edu/~smuthyala1/phplab01/3.php
+
+4.http://codd.cs.gsu.edu/~smuthyala1/phplab01/4.php
+
+5.http://codd.cs.gsu.edu/~smuthyala1/phplab01/5.php
+
+6.http://codd.cs.gsu.edu/~smuthyala1/phplab01/6.php
+
+7.http://codd.cs.gsu.edu/~smuthyala1/phplab01/7.php
+
+8.http://codd.cs.gsu.edu/~smuthyala1/phplab01/8.php
