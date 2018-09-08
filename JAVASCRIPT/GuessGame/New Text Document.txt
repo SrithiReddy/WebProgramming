@@ -1,0 +1,29 @@
+<html>
+<head>
+<title> Assignment 6b</title>
+<link href="5b.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="payroll.js"></script>
+</head>
+<body  onload="clearPayRollReport()" >
+
+		 <div class="menu">
+					<h1> Assignment 6 -Payroll Report</h1>
+				 <div id="payrollReport">
+				
+				</div>
+			  
+			 
+		</div>
+		<div class="paybutton">
+				 <input type="button" onclick="generatePayRoll()" value="Generate Payroll"></input>
+				 
+		</div>
+		<br/><br/><br/>
+		<div id="menu" class="menu">
+				<a href="index.html">Assignment 5-a</a><br/>
+				<a href="assignment5c.html">Assignment 5-c</a><br/>
+				<a href="./index.html">Home Page</a>
+		</div>
+    
+</body>
+</html>

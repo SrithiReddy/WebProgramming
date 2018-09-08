@@ -1,0 +1,9 @@
+.error_msg
+{
+       color:red;
+       text-decoration:underline;
+} 
+body{
+background-color: #407fbd;
+background-image: url("bg.jpg");
+}

@@ -1,0 +1,156 @@
+body{
+	background-repeat: repeat;
+	font-family: Arial, Georgia, sans-serif;
+	font-size: 12pt;
+	line-height: 1.25em;
+	background-image: url("numberbg.jpg");
+
+	height: 100%;
+}
+ 
+h1{
+	text-align:center;
+	padding:10px;
+}
+
+ul {
+	text-align:center;
+	background-color:#F5F5DC;
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+
+li {
+    display: inline;
+}
+.special{
+	color: #FF0000;
+	background-color:#FFDAB9;
+	border: 1px solid #781351;
+	float:none;
+	font-size:12px;
+	font-weight:bold;
+	height:28px;
+}
+
+
+ul.points
+{
+	 font-size:16px;
+	 list-style-image: url('../images/p2.gif');
+	
+}
+label
+{
+	width: auto;
+	float: left;
+	text-align: left;
+	display: block;
+}
+
+.label
+{
+	color: #781351;
+	background-color:#BDBDBD;
+	border: 1px solid #781351;
+	float:none;
+	font-size:12px;
+	font-weight:bold;
+	height:28px;
+}
+
+
+.text
+{
+	color: #781351;
+	background: #F2F2F2;
+	border: 2px solid #781351;
+	float:none;
+	font-size:12px;
+	font-weight:bold;
+	height:20px;
+}
+
+fieldset
+{
+	border: 5px solid #4C001F;
+	width: 750px;
+	height: 410px;
+	float:none;
+	margin-left: 18%;
+	margin-right: 20%;
+	font-weight:bold;
+	background: #4DDBFF;
+	
+}
+
+
+.wage
+{
+	border: 5px solid #4C001F;
+	width: 850px;
+	float:none;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-weight:bold;
+	
+}
+
+.error
+{
+display:block;
+color:#f00;
+}
+
+.back{
+	display:block;
+	float:none;
+}
+.display
+{
+	color: #751947;
+	font-size: 16px; 
+	width: 150px;
+	float:both;
+	padding-bottom:10px;
+	background: #4DDBFF;
+	margin-left:30%;
+	margin-right:20%;
+	padding-left:10px;
+	padding-top:10px;
+	
+	
+} 
+
+.display span{
+	color: #000;
+}
+
+table.guess{
+	border-collapse:collapse;
+	border:3px solid black;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+table.guess tr
+{
+	height:30px;
+}
+
+table.guess th
+{
+	text-align:center;
+	background-color:#2E2EFE;
+	font-size: 26px;
+	height:50px;
+}
+
+table.guess td
+{
+	text-align:center;
+	height:20px;
+	
+}
+

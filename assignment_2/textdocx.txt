@@ -1,0 +1,16 @@
+Assignment_2
+
+Codd Server links
+
+http://codd.cs.gsu.edu/~smuthyala1/assignment_2/index.html
+http://codd.cs.gsu.edu/~smuthyala1/assignment_2/recipe1.html
+http://codd.cs.gsu.edu/~smuthyala1/assignment_2/recipe2.html
+
+CSS links
+
+http://codd.cs.gsu.edu/~smuthyala1/assignment_2/program1.css
+http://codd.cs.gsu.edu/~smuthyala1/assignment_2/font.css
+
+Github
+https://github.com/SrithiReddy/YOUR_GITHUB_SRITHI/tree/master/assignment_2
+
