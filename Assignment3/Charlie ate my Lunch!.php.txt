@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Charlie ate my lunch !</title>
+<h1>Charlie ate or did not eat my Lunch !</h1>
+</hr>
+</head>
+<body>
+<hr/>
+<?php
+
+function isBitten()
+{
+
+
+return rand(0,1);
+
+
+}
+
+
+
+$s=isBitten();
+
+
+if ($s==0)
+	echo "Charlie did not eat my lunch !!";
+else 
+	echo "Charlie ate my lunch !!";
+
+
+?>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Arrays and Functions</title>
+<?php
+
+         $month= array("January" , "February" , "March" , "April" , "May" , "June" , "July" , "August" , "September" , "October" , "November" , "December" );
+	
+	echo "<b>Printing using the FOR loop</b>";
+	echo "<br>";
+	for($mon=0;$mon<12;$mon++)
+	{
+		echo "$month[$mon]";
+		echo "<br>";
+	}
+	
+	echo "<br>";
+	echo "<b>Printing using the FOR-EACH loop</b>";
+	echo "<br>";
+	
+	foreach($month as $value)
+	{
+		echo "$value";
+		echo "<br>";
+	}
+	echo "<br>";
+	echo "<b>Sorting in alphabetical order(FOR)</b>";
+	echo "<br>";
+	
+	sort($month);
+	for($mon=0;$mon<12;$mon++)
+	{
+		echo "$month[$mon]";
+		echo "<br>";
+	}
+	echo "<br>";
+	echo "<b>Sorting in alphabetical order(FOR-EACH)</b>";
+	echo "<br>";
+	foreach($month as $value)
+	{
+		echo "$value";
+		echo "<br>";
+	}
+?>
+</head>
+</html>
